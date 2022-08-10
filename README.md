@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 백엔드 개발자 신상우 입니다. 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
